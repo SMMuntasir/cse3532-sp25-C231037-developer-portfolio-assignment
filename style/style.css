@@ -157,3 +157,7 @@ footer button{
     position: absolute;
     height: 95%;
 }
+.clearDefault{
+    color: black;
+    /* all: unset;     */
+}
